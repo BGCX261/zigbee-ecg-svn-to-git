@@ -1,0 +1,21 @@
+
+
+
+Bauteilschutz (absolute maximum)
+Spannungsversorgung
+AD-Wandlung, Nyqist, Oversampling (-) Modell
+Sampling (timestamps? packages?)
+Dokumentation
+  - Gerät
+  - Hintergrund (Physiologie, Hautwiderstand, Elektroden, Störgrößen, Elektronik, Btriebssicherheit (ZigBee hackbar))
+Bandbreitenberechnung
+Modell (-) Test des Modells
+Funktionstests
+Graphical-User-Interface (minimal Anzeige der Kurve mit Skala)
+
+Kommunikationsfehler als harter Fehler (2nd order Alarm)
+
+
+opt.:
+sw-filter
+phys. mustererkennung
